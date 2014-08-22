@@ -8,7 +8,7 @@ This is the course project for Getting and Cleaning Data Course run by Johns Hop
 This project is about getting real data from the Internet and cleaning so it can be easily used.
 
 The original data source ([data source](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)) was gathered at UC Irvine, and it
-has motion data captured by smartphones of 30 volunteers. More about original data can be found on UCI Machine Learning repository [link].(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
+has motion data captured by smartphones of 30 volunteers. More about original data can be found on UCI Machine Learning repository [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#).
 
 Our goal was to transform the raw data source into a new, tidy data source, with the average of each variable for each activity and each subject.
 
