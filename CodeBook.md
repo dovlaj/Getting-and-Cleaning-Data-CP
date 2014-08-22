@@ -3,6 +3,8 @@
 #Human Activity Recognition Using Smartphones Data Set
 
 Here is the codebook which explains column names for file tidyData.txt.
+All of the numeric data is calculated by averaging data for each subject and for each activity.
+ 
 I used [camelCase](http://en.wikipedia.org/wiki/CamelCase) for variable names. 
 
 In order to clarify variable names, the following transformations to the original variable names were performed:
